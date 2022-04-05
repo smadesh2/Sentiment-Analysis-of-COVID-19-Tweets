@@ -1,9 +1,8 @@
 # Text-Mining
 
-# Coming Soon
-
+- Sentiment Analysis
 - LDA
 - entity extraction
-- much more..
+- Word cloud
 
 
