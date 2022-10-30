@@ -1,4 +1,4 @@
-# Text-Mining
+# Sentiment Analysis of COVID 19 Tweets
 
 • **Objective**: Predict the weekly sales of each store - department combination using different factors that affect sales, such as unemployment rates, fuel prices, temperature, and holidays, in order to maximize resources and achieve maximum return on investment.
 
